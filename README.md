@@ -1,5 +1,4 @@
-# CO2-Emissions-Prediction-Model
-# CO2 Emissions Prediction 🚗💨
+# CO2 Emissions Prediction 
 
 A machine learning project that predicts CO2 emissions of vehicles based on 
 features like engine size, cylinders, and fuel consumption using Linear Regression.
