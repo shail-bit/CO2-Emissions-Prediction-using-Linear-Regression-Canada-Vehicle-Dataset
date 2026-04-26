@@ -17,8 +17,6 @@ The project includes:
 - Model evaluation using MSE, RMSE, and R² score
 
 ## Dataset
-https://github.com/shail-bit/CO2-Emissions-Prediction-using-Linear-Regression-Canada-Vehicle-Dataset
-
 The dataset contains information about vehicles in Canada, including:
 
 - **Engine Size (L)**
